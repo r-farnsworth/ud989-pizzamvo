@@ -1,6 +1,7 @@
 $(function() {
 
     var data = {
+        //this is the model in our code
         lastID: 0,
         pizzas: []
     };
