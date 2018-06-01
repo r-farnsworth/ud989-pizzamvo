@@ -1,7 +1,7 @@
 $(function() {
 
+    //this is the model in our code - at the moment, it's just an object.
     var data = {
-        //this is the model in our code
         lastID: 0,
         pizzas: []
     };
